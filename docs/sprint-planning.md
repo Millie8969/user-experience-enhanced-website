@@ -25,17 +25,25 @@ Zet je issues in je nieuwe repo aan en voeg de issues uit de vorige sprint waarm
 #### Interactive functionality uit sprint 9
 Hoe ver ben je gekomen met de User Generated Content met een POST uit Sprint 9? Is het al gelukt om verschillende UI-Stack states te ontwerpen en bouwen? Is de interactie volgens het principe van Progressive Enhancement gebouwd en heb je dit getest op verschillende browsers? 
 
-Als je dat nog niet hebt en je hebt hier nog geen issues voor maak die dan aan, bijvoorbeeld: "UI-stack states POST interactie", "Browser test uitvoeren". Hier kan je deze sprint mooi aan doorwerken. 
+Als je dat nog niet hebt en je hebt hier nog geen issues voor, maak dan een nieuwe aan, bijvoorbeeld: "UI-stack states POST interactie", "Browser test uitvoeren". Hier kan je deze sprint mooi aan doorwerken. 
 
-Als je dit allemaal al is gelukt, maak dan een issue aan voor een user test om jouw interactie te testen met een gebruiker. Je kan in [sprint 5](https://github.com/fdnd-task/fix-the-flow-interactive-website/blob/main/docs/code-design-review-user-testing.md) teruglezen hoe je een user test kan voorbereiden en afnemen.
+Als je dit allemaal al is gelukt, maak dan een dub-issue aan voor een user test om jouw interactie te testen met een gebruiker. Zet de bron voor de user test uitleg uit [sprint 5](https://github.com/fdnd-task/fix-the-flow-interactive-website/blob/main/docs/code-design-review-user-testing.md) er alvast bij.
 
 ### Sprint review verwerken
 Verwerk de feedback van de Sprint Review van sprint 9, maak issues van de taken waar je mee aan de slag wil deze sprint.
 
 
 ## Description schrijven
-Schrijf voor elk issue dat je hebt aangemaakt of verplaatst een duidelijke _description_. 
+Schrijf voor elk issue dat je hebt aangemaakt of verplaatst een duidelijke _description_. Zo doen ze dat ook in het bedrijfsleven. 
 
-Schrijf voor een issue altijd een (korte) uitleg wat het issuse inhoudt en mogelijke knelpunten. Voeg een [takenlijst](https://docs.github.com/en/get-started/writing-on-github/working-with-advanced-formatting/about-task-lists) toe als er verschillende dingen moeten gebeuren. Label het issue met de [MoSCoW methode](https://en.wikipedia.org/wiki/MoSCoW_method). Misschien kan je al een start en eind datum voor je issues bedenken? 
+### Analyse en knelpunten
+Schrijf voor een issue altijd een (korte) uitleg wat het issuse inhoudt en mogelijke knelpunten, en zo  nodig een user-story. 
+
+Voeg een [takenlijst](https://docs.github.com/en/get-started/writing-on-github/working-with-advanced-formatting/about-task-lists) toe als er verschillende dingen moeten gebeuren. Zoals “Ontwerp UI-stack states”, “Ontwerp User preference media features”, “Breakdown URL’s, Routes, API data”, “Routes bouwen met Fetch data”, “Views aanmaken en bouwen met dynamsiche data”, “…”
+
+### Tijdsplanning
+Label het issue met de [MoSCoW methode](https://en.wikipedia.org/wiki/MoSCoW_method). Misschien kan je al een start en eind datum voor je issues bedenken? 
+
+Al je schetsen, ontwerpen, bronnen, commits, tests, verbeteringen en feedback voeg je daarna toe aan dat issue. Deze sprint komen daar performance tests bij.
 
 Als je een mooi issue voor jezelf hebt geschreven, laat die dan eens lezen door iemand anders. Het is de bedoeling dat je het zo schrijft dat anderen ook goed begrijpen wat je bedoelt...
