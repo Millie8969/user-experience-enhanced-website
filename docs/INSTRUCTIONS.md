@@ -28,21 +28,21 @@ Deze leertaak wordt behandeld in Sprint 10. Er worden verschillende workshops aa
 
 ## Definition of done
 
-
 Deze opdracht is done als:
 
-- [ ] Je website is online gepubliceerd
 - [ ] Je hebt een Performance audit op je website uitgevoerd, gevonden problemen gedocumenteerd en verholpen
 - [ ] Je hebt verschillende performance technieken toegepast
-- [ ] Je hebt met client-side scripting de user experience van je website verbeterd
+- [ ] Je hebt met client-side scripting de user experience van je website verbeterd volgens het principe van Progressive Enhancement
 - [ ] Je hebt feedback en taken van de vorige sprints opgepakt en verwerkt
-- [ ] Je hebt het eindresultaat gepresenteerd aan de opdrachtgever en ontwerpkeuzes beschreven in de Readme
+- [ ] Je hebt je ontwerpkeuzes en eigen ideeën begrijpelijk uitgelegd in je Readme 
 
+<!-- 
+Sprint 9
+Deze opdracht is done als:
 
-<!--
-- [ ] Je toont aan dat je in de analysefase verschillende methoden en technieken hebt ingezet om te inventariseren wat er moet gebeuren
-- [ ] Je toont aan dat je in de ontwerpfase verschillende methoden en technieken hebt ingezet die ervoor zorgen dat je precies weet wat je moet bouwen
-- [ ] Je toont aan dat je in de bouwfase verschillende server-side en client-side methoden en technieken hebt ingezet om het ontwerp te realiseren
-- [ ] Je toont aan dat je in de testfase verschillende methoden en technieken hebt ingezet om te testen of jouw website voldoet aan standaarden en gebruiksvriendelijk is
-- [ ] Je hebt client-side Javascript gebruikt om de interface te verrijken
+- [ ] Je hebt interactieve functionaliteit voor user generated content met verschillende UI states ontworpen en gebouwd
+- [ ] Je hebt NodeJS, Express, Liquid, een REST API, HTML, CSS en client-side JS gecombineerd volgens het principe van Progressive Enhancement
+- [ ] Je hebt user preference media features toegevoegd in je ontwerp en website volgens het principe van Progressive Enhancement
+- [ ] Je hebt rekening gehouden met eindgebruikers door je werk te testen in verschillende browsers en devices en de testresultaten te verwerken
+- [ ] Je hebt je ontwerpkeuzes en eigen ideeën aan de hand van Progressive Enhancement begrijpelijk uitgelegd in je Readme 
 -->
