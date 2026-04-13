@@ -13,7 +13,7 @@ planning maken, issues verplaatsen, sprint review verwerken, description schrijv
 Zet een ✅ als je het gedaan hebt, dan weten we hoe ver je bent.
 
 ## Repo klaarzetten
-Fork en Clone deze leertaak. Dit keer is de _boilerplate_ leeg. Er staat niks in. Het idee is dat je alleen de code gaat overnemen die je nodig hebt. Misschien ga je wel helemaal overnieuw beginnen, daar leer je van! (doe dit nu nog niet, dat komt later wel, na de planning)
+Fork en Clone deze leertaak. Dit keer is de _boilerplate_ leeg. Er staat niks in. Het idee is dat je alleen de code gaat overnemen die je nodig hebt. Misschien ga je wel helemaal opnieuw beginnen, daar leer je van! (doe dit nu nog niet, dat komt later wel, na de planning)
 
 ## Project board en planning maken
 Koppel het project board van de vorige sprint aan jouw repository van Sprint 10.
