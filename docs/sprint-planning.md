@@ -10,7 +10,7 @@ Daarna ga je voor jouw issues duidelijke _descriptions_ schrijven.
 
 Schrijf je naam op het whiteboard, en de onderdelen van de sprintplanning:
 planning maken, issues verplaatsen, sprint review verwerken, description schrijven. 
-Zet een ✅ alsje het gedaan hebt, dan weten we hoever je bent.
+Zet een ✅ als je het gedaan hebt, dan weten we hoe ver je bent.
 
 ## Repo klaarzetten
 Fork en Clone deze leertaak. Dit keer is de _boilerplate_ leeg. Er staat niks in. Het idee is dat je alleen de code gaat overnemen die je nodig hebt. Misschien ga je wel helemaal overnieuw beginnen, daar leer je van! (doe dit nu nog niet, dat komt later wel, na de planning)
