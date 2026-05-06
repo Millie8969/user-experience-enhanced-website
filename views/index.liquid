@@ -1,0 +1,20 @@
+{% render 'partials/head.liquid' %}
+    
+<section class="giftContainer">
+
+
+{% for gift in gifts %}
+    <article>
+        <form method="post" action="/saveGift">
+            <label><input name="giftId" value="{{ gift.id }}" hidden></label>
+            <button type="submit">SAVE</button>
+        </form>
+        <img class="giftImage" src="{{ gift.image }}">
+        <p class="giftName">{{ gift.name }}</p>
+        <p class="giftAmount">€{{ gift.amount }}</p>
+    </article>
+{% endfor %}
+
+</section>
+
+{% render 'partials/foot.liquid' %}

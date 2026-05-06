@@ -1,0 +1,13 @@
+.giftImage {
+    width: 80%;
+    height: auto;
+}
+
+.giftContainer {
+    display: grid;
+    margin: auto;
+    width: 80%;
+    justify-items: center;
+    grid-template-columns: 1fr 1fr 1fr;
+    column-gap: 5px;
+}
