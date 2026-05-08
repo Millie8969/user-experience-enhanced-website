@@ -4,14 +4,14 @@
 
 
 {% for gift in gifts %}
-    <article>
-        <form method="post" action="/saveGift">
-            <label><input name="giftId" value="{{ gift.id }}" hidden></label>
-            <button type="submit">SAVE</button>
-        </form>
+    <article class="giftCard">
         <img class="giftImage" src="{{ gift.image }}">
         <p class="giftName">{{ gift.name }}</p>
         <p class="giftAmount">€{{ gift.amount }}</p>
+        <form method="post" action="/saveGift">
+            <label><input name="giftId" value="{{ gift.id }}" hidden></label>
+            <button class="saveGiftButton" type="submit">Opslaan</button>
+        </form>
     </article>
 {% endfor %}
 
