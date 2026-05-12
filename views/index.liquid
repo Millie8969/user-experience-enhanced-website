@@ -3,9 +3,9 @@
 <section class="giftContainer">
 
 
-{% for gift in gifts %}
+{% for gift in gifts | compact %}
     <article class="giftCard">
-        <img class="giftImage" src="{{ gift.image }}">
+        <img class="giftImage" src="{{ gift.image }}" alt="Foto van {{ gift.slug }}">
         <p class="giftName">{{ gift.name }}</p>
         <p class="giftAmount">€{{ gift.amount }}</p>
         <form method="post" action="/saveGift">
