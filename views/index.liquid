@@ -1,20 +1,20 @@
 {% render 'partials/head.liquid' %}
-    
-<section class="giftContainer">
+<main>
+    <!--Dit is de container van de cadeau-ideeën-->
+    <section class="giftContainer">
 
-
-{% for gift in gifts %}
-    <article class="giftCard">
-        <img class="giftImage" src="{{ gift.image }}">
-        <p class="giftName">{{ gift.name }}</p>
-        <p class="giftAmount">€{{ gift.amount }}</p>
-        <form method="post" action="/saveGift">
-            <label><input name="giftId" value="{{ gift.id }}" hidden></label>
-            <button class="saveGiftButton" type="submit">Opslaan</button>
-        </form>
-    </article>
-{% endfor %}
+    {% for gift in gifts %}
+        <article class="giftCard">
+            <img class="giftImage" src="{{ gift.image }}">
+            <p class="giftName">{{ gift.name }}</p>
+            <p class="giftAmount">€{{ gift.amount }}</p>
+            <form method="post" action="/saveGift">
+                <label><input name="giftId" value="{{ gift.id }}" hidden></label>
+                <button class="saveGiftButton" type="submit">Opslaan</button>
+            </form>
+        </article>
+    {% endfor %}
 
 </section>
-
+</main>
 {% render 'partials/foot.liquid' %}
